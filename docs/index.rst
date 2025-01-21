@@ -20,6 +20,10 @@ non blandit massa enim nec dui nunc mattis enim. Ornare arcu odio ut sem
 nulla pharetra diam porttitor leo a diam sollicitudin tempor id eu. Ipsum
 dolor sit amet consectetur adipiscing elit pellentesque habitant.
 
+.. include:: reuse/include.txt
+   :start-after: include_start
+   :end-before: include_end
+
 ---------
 
 :h2:`In this documentation`
@@ -66,3 +70,4 @@ Example Project is a member of the Ubuntu family. It’s an open source project 
 
    self
    contributing
+   test
